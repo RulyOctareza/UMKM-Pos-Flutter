@@ -23,7 +23,7 @@
 ## ✨ Preview
 
 <p align="center">
-  <img src="docs/preview/hero.png" alt="Mockup gelap aplikasi UMKM POS" width="90%">
+  <img src="docs/preview/hero.svg" alt="Mockup gelap aplikasi UMKM POS" width="90%">
 </p>
 
 > **Catatan:** gambar di atas adalah *ilustrasi konsep* (bukan screenshot asli). Tangkapan layar
